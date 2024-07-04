@@ -54,7 +54,7 @@ displayPersonInfo(person2)
 
 
 // example 2
-// You are providing an e-commerce store with Communate a customers
+// You are providing an e-commerce store with Communcate a customers
 
 
 type productInfo = readonly [string,number,boolean]
